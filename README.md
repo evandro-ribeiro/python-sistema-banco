@@ -1,2 +1,3 @@
-# python-sistema-banco
-Sistema bancário de movimentações financeiras utilizando Python
+# Sistema bancário de movimentações financeiras
+
+Sistema bancário de movimentações financeiras para treinamento da linguagem Python.
